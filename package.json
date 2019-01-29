@@ -1,0 +1,19 @@
+{
+  "name": "prisma-test",
+  "version": "1.0.0",
+  "description": "Test for prisma library",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jaagallegora/prisma-test.git"
+  },
+  "author": "Jaime Alejandro Gallego Ramirez @JgallegoDev",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Jaagallegora/prisma-test/issues"
+  },
+  "homepage": "https://github.com/Jaagallegora/prisma-test#readme"
+}
