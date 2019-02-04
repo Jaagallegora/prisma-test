@@ -19,6 +19,7 @@
   "homepage": "https://github.com/Jaagallegora/prisma-test#readme",
   "dependencies": {
     "express": "^4.16.4",
-    "nodemon": "^1.18.9"
+    "nodemon": "^1.18.9",
+    "prisma-client-lib": "^1.25.7"
   }
 }
