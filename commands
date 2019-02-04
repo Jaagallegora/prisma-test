@@ -1,0 +1,4 @@
+docker exec -it <container id> <command> #run sh in container
+
+
+docker-compose up -d --build #-d in background --build the image
